@@ -7,7 +7,7 @@ Front End Devloper
 * 🌍  I'm based in I'm based in Nakhonpathom
 * ✉️  You can contact me at [djdjv999@gmail.com](mailto:djdjv999@gmail.com)
 * 🚀  I'm currently working on [Nakhonpathom Vocational College](http://https://nc.ac.th/nvc/)
-* 🧠  I'm learning React, TailwindCSS, HTML, CSS, C++, Python
+* 🧠  I'm learning React, Tailwind CSS, JavaScript, TypeScript
 * 🤝  I'm open to collaborating on AI
 
 ### Skills
