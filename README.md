@@ -81,5 +81,4 @@ I enjoy solving problems, learning new technologies, and collaborating to create
 | DevOps | Docker, Vercel |
 | Learning | TypeScript, AI Tools Integration |
 
----
 </div>
