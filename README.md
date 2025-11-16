@@ -82,8 +82,4 @@ I enjoy solving problems, learning new technologies, and collaborating to create
 | Learning | TypeScript, AI Tools Integration |
 
 ---
-
-### ✨ *“Code. Learn. Build. Repeat.”*  
-> *"The best way to predict the future is to create it."* – Alan Kay  
-
 </div>
