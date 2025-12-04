@@ -2,14 +2,6 @@
 
 # 🌈 Hi there! I'm **Thanachai Ngamwilairattana**
 
-💻 **Full Stack Developer | Software Engineer | Tech Enthusiast**
-
-I’m passionate about building **end-to-end web applications**,  
-from crafting beautiful and responsive **Frontends** to developing scalable and efficient **Backends**.  
-I enjoy solving problems, learning new technologies, and collaborating to create meaningful digital experiences.
-
----
-
 ### 📍 About Me
 
 🌍 **Location:** Nakhon Pathom, Thailand  
@@ -56,29 +48,5 @@ I enjoy solving problems, learning new technologies, and collaborating to create
 
 <img src="https://github-readme-stats.vercel.app/api?username=latency113&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=latency113&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-
-</div>
-
----
-
-## 🔥 Developer Highlights
-
-- 🌟 Built multiple **Full Stack projects** integrating React, Node.js, and MongoDB.  
-- 🚀 Experienced with **API design**, authentication systems, and database schema modeling.  
-- 🧠 Passionate about **AI-assisted development** and **automation tools**.  
-- 💬 Contributor to **open-source projects** and educational content.  
-- 💡 Focused on **clean code**, scalability, and maintainability.  
-
----
-
-## 🌟 Featured Tech Focus (2025)
-
-| Area | Focus |
-|------|-------|
-| Frontend | React, Vue 3, Tailwind CSS |
-| Backend | ElysiaJS, Bun, Prisma ORM |
-| Database | MongoDB, PostgreSQL |
-| DevOps | Docker, Vercel |
-| Learning | TypeScript, AI Tools Integration |
 
 </div>
