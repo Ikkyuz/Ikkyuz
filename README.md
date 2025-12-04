@@ -2,6 +2,8 @@
 
 # 🌈 Hi there! I'm **Thanachai Ngamwilairattana**
 
+---
+
 ### 📍 About Me
 
 🌍 **Location:** Nakhon Pathom, Thailand  
