@@ -14,7 +14,7 @@ I enjoy solving problems, learning new technologies, and collaborating to create
 
 🌍 **Location:** Nakhon Pathom, Thailand  
 ✉️ **Email:** [djdjv999@gmail.com](mailto:djdjv999@gmail.com)  
-🚀 **Currently Working At:** [Nakhon Pathom Vocational College](https://nc.ac.th/nvc/)  
+🚀 **Currently studying At:** [Nakhon Pathom Vocational College](https://nc.ac.th/nvc/)  
 🧠 **Learning Focus:** React, Vue.js, Tailwind CSS, JavaScript, TypeScript  
 🤝 **Open for Collaboration:** AI & Web Application Projects  
 
