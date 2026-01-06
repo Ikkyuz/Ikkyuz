@@ -48,9 +48,8 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ikkyuz&show_icons=true&theme=dracula&count_private=true&cache_seconds=86400" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikkyuz&layout=compact&theme=dracula&cache_seconds=86400" height="150" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ikkyuz&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ikkyuz&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-
-</div>
