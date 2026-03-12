@@ -82,14 +82,24 @@
 
 ---
 
-# 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ikkyuz&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ikkyuz&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikkyuz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+# 📊 My GitHub Stats
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Ikkyuz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" 
+    height="160" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikkyuz&theme=dark&hide_border=true&layout=compact" 
+    height="160" 
+    alt="Top Languages" 
+  />
+</div>
+
+---
 
 ---
 
