@@ -88,12 +88,12 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=thanachai512403&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" 
+    src="https://github-readme-stats.vercel.app/api?username=thanachai2006&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" 
     height="160" 
     alt="GitHub Stats" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanachai512403&theme=dark&hide_border=true&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanachai2006&theme=dark&hide_border=true&layout=compact" 
     height="160" 
     alt="Top Languages" 
   />
