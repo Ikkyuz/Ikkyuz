@@ -82,8 +82,6 @@
 
 ---
 
----
-
 # 📊 My GitHub Stats
 
 <div align="center">
@@ -98,8 +96,6 @@
     alt="Top Languages" 
   />
 </div>
-
----
 
 ---
 
